@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayat272
+- 👋 Hi, I’m @Ayat
 - 👀 I’m interested in Software Testing and Quality Control
 - 🌱 I’m currently learning Automation Testing as i have completed Manual Testing projects
 - 💞️ I’m looking to collaborate on Manual Testing projects
