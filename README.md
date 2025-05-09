@@ -8,4 +8,4 @@
 
 📫 You can reach me through:
   📧 Email: ayatabdelnasser66@gmail.com
-  💼 LinkedIn: Ayat Abdelnasser
+  💼 LinkedIn:https://www.linkedin.com/in/ayat-abdelnasser-softwaretester-qualitycontrol/ 
