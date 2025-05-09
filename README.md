@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Ayat
-- 👀 I’m interested in Software Testing and Quality Control
-- 🌱 I’m currently learning Automation Testing as i have completed Manual Testing projects
-- 💞️ I’m looking to collaborate on Manual Testing projects
-- 📫 You can reach me throuhg my email: ayatabdelnasser66@gmail.com or on my Linkedin https://www.linkedin.com/in/ayat-abdelnasser-softwaretester-qualitycontrol/ 
+👋 Hi there, I'm Ayat Abdelnasser
+💻 A Software Tester with a growing passion for Manual and Automation Testing.
+🔍 Focused on delivering reliable, user-friendly experiences through thoughtful test design and clear defect reporting.
+📈 Continuously learning and improving in testing strategies.
+📫 You can reach me throuhg 
+📧 Email: ayatabdelnasser66@gmail.com
+💼 LinkedIn: Ayat Abdelnasser
